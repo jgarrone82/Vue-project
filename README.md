@@ -1,24 +1,4 @@
-# misgastos
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Proyecto de estudio para una aplicación web de carga de datos, con base de datos en Google Firebase, estructura creada en Vue Js 
+Con la idea de agregar filtros para definir tipos de pagos sin completar
+Study project for a web application to load data, with a database in Google Firebase, a structure created in Vue Js
+With the idea of adding filters to define types of payments without completing

@@ -251,14 +251,14 @@ export default {
   },
   beforeMount: function() {
     var config = {
-      apiKey: "AIzaSyBGksaPaHPE74oTFi0eKRh9Z0pkW3Vg3CE",
-      authDomain: "misgastos-20f0d.firebaseapp.com",
-      databaseURL: "https://misgastos-20f0d.firebaseio.com",
-      projectId: "misgastos-20f0d",
-      storageBucket: "misgastos-20f0d.appspot.com",
-      messagingSenderId: "519795383865",
-      appId: "1:519795383865:web:157c1f6f8611ccdfc1b7e8",
-      measurementId: "G-5SEG96S1DG"
+      apiKey: "YOUR_API_KEY",
+      authDomain: "XXXXXX.firebaseapp.com",
+      databaseURL: "https://XXXXXX.firebaseio.com",
+      projectId: "XXXX",
+      storageBucket: "xxx",
+      messagingSenderId: "YOUR_messagingSenderId",
+      appId: "APP_ID",
+      measurementId: "G-XXXXXX"
     };
     firebase.initializeApp(config);
     this.db = firebase.firestore();
