@@ -12,7 +12,7 @@
     "core-js": "^3.6.5",
     "firebase": "^7.16.1",
     "font-awesome": "^4.7.0",
-    "npm-check-updates": "^7.0.2",
+    "npm-check-updates": "^16.4.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
