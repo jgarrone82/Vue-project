@@ -10,10 +10,10 @@
   "dependencies": {
     "bootstrap": "^5.0.0",
     "core-js": "^3.6.5",
-    "firebase": "^7.16.1",
+    "firebase": "^10.9.0",
     "font-awesome": "^4.7.0",
     "npm-check-updates": "^16.4.1",
-    "vue": "^2.6.11"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.8",
